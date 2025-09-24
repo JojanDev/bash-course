@@ -14,4 +14,4 @@ case $valor in
     *)
         echo "Valor incorrecto" 
     ;;
-esac    
+esac
